@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author sakha
+ *
+ */
+module GitExample {
+}
